@@ -93,8 +93,6 @@ Other stakeholders who are affected by the system but will not use it daily:
 
 ### In-scope capabilities
 
-[Describe 3–5 specific capabilities as actions users can perform.]
-
 1. **Sign in with an MSU-IIT Google account:** Users log in using their institutional Gmail, so only members of the campus community can post, search, or claim items.
 2. **Post a lost or found item:** Users create a listing with a photo, item category, short description, and the location and date it was lost or found.
 3. **Search and filter listings:** Users browse lost and found items and narrow the results by category, location, date, or keyword.
@@ -102,9 +100,6 @@ Other stakeholders who are affected by the system but will not use it daily:
 5. **Manage listings and verify claims:** The Lost and Found administrator and campus security approve or remove listings, review claims, mark items as released, and flag items that remain unclaimed.
 
 ### Out-of-scope capabilities
-
-[Identify at least three features, integrations, services, or settings
-excluded from this semester's version.]
 
 1. **In-app messaging and notifications:** The system will not include chat between finders and owners, or email, SMS, and push notifications. Users will check claim status inside the app, and item handover will happen in person at the Lost and Found office or campus security.
 2. **Custom UI themes:** Dark mode, color theme options, and other appearance settings will not be built. The app will use one consistent design.
@@ -148,22 +143,22 @@ Do not report results that have not been collected.]
 
 
 ## 6. Review and Next Steps
-<Kenet>
+
 ### Change made after reviewing the proposal
 
-- Before review: [Original idea or scope]
-- After review: [Revised idea or scope]
-- Reason: [Why the change improves clarity, feasibility, or usefulness]
+- Before review: The initial idea is a tracking system that records all lost and found items within the vicinity of MSU-IIT, and helps mediate the transaction between the finder and owner.
+- After review: There needs to be measures put in place to help verify ownership claims so that lost items can rightfully be returned to their respective owners.
+- Reason: It is imperative that we can ensure that false claims are flagged so that the system cannot just be exploited and that, as previously mentioned, items return to their rightful owners.
 
 ### Biggest remaining risk
 
-[Identify the assumption, dependency, or limitation that could most affect the project.]
+As mentioned above, the lack of a well-thought-out, foolproof security measure to check the authenticity of ownership claims remains the biggest risk that might affect the overall efficacy of this system since it may just serve as an exploitable means for people to claim items that aren’t their own. 
 
 ### Three unanswered questions
 
-1. [Question 1]
-2. [Question 2]
-3. [Question 3]
+1. How can we implement security measures to verify ownership claims?
+2. How can the system help coordinate the transaction logistics (location, date and time, etc.) between the finder and owner?
+3. How can we effectively coordinate with the Security and Instruction Division (SID) to implement this as the go-to lost and found system for MSU-IIT constituents?
 
 ## 7. Member Contribution Record
 
@@ -184,7 +179,7 @@ None.
 Select one option:
 
 - [ ] No generative AI tools were used by any member in preparing this submission.
-- [ / ] One or more members used generative AI tools. Details are provided below.
+- [x] One or more members used generative AI tools. Details are provided below.
 
 | Member who used AI | Tool | Purpose and sections assisted | How output was checked or revised |
 |---|---|---|---|
@@ -216,25 +211,25 @@ upload the same Markdown file to their personal CSC181 repository.
 
 | Member | Reviewed final version |
 |---|---|
-| Kythe Florence Fontilla | [Yes/No] |
-| Joash Casiño | [Yes/No] |
-| Kate Mikaela Dagohoy | [Yes/No] |
-| Kenneth Jerome Gloria | [Yes/No] |
+| Kythe Florence Fontilla | Yes |
+| Joash Casiño | Yes |
+| Kate Mikaela Dagohoy | Yes |
+| Kenneth Jerome Gloria | Yes |
 
 
 ## Submission Checklist
 
-- [ ] Each member contributed at least two problem ideas.
-- [ ] Three candidate problems were compared.
-- [ ] The selection rationale is included.
-- [ ] The problem statement contains 100–150 words.
-- [ ] The proposed solution is included.
-- [ ] Relevant stakeholders and consultation questions are identified.
-- [ ] The scope contains 3–5 capabilities and at least three exclusions.
-- [ ] Constraints, assumptions, and success indicators are included.
-- [ ] A review change and three unanswered questions are documented.
-- [ ] Contributions, references, and AI use are declared.
-- [ ] All members reviewed the same final document.
-- [ ] Each member saved the file as `activities/project-proposal.md`.
-- [ ] Each member committed and pushed their copy to their personal repository.
-- [ ] Each member submitted their own GitHub file link through MOLE.
+- [x] Each member contributed at least two problem ideas.
+- [x] Three candidate problems were compared.
+- [x] The selection rationale is included.
+- [x] The problem statement contains 100–150 words.
+- [x] The proposed solution is included.
+- [x] Relevant stakeholders and consultation questions are identified.
+- [x] The scope contains 3–5 capabilities and at least three exclusions.
+- [x] Constraints, assumptions, and success indicators are included.
+- [x] A review change and three unanswered questions are documented.
+- [x] Contributions, references, and AI use are declared.
+- [x] All members reviewed the same final document.
+- [x] Each member saved the file as `activities/project-proposal.md`.
+- [x] Each member committed and pushed their copy to their personal repository.
+- [x] Each member submitted their own GitHub file link through MOLE.
