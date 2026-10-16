@@ -178,9 +178,8 @@ Select one option:
 
 | Member who used AI | Tool | Purpose and sections assisted | How output was checked or revised |
 |---|---|---|---|
-| [Name] | [Tool] | [Purpose/sections] | [Review process] |
 | Kythe Florence Fontilla | Claude (Anthropic) | Brainstorming ideas for relevant stakeholders and prototyping | Editing and restructuring
-| Joash Casiño | Claude (Anthropic) | 
+| Joash Casiño | Claude (Anthropic) | Reviewing ideas for the Initial Scope section | Checking if there are any ideas overlooked 
 | Kate Mikaela Dagohoy | Claude (Anthropic) | Brainstorming Record | To assist in the readability of the ideas and notes |
 
 ### Main prompts or interaction summary
