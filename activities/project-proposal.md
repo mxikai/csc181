@@ -124,17 +124,12 @@ Other stakeholders who are affected by the system but will not use it daily:
 
 ### Assumptions and dependencies
 
-[Identify at least two assumptions or dependencies and how to check them.]
-
 | Assumption or dependency | Why it matters | How to check or address it |
 |---|---|---|
 | MSU-IIT Google accounts for sign-in | Sign-in limits access to the campus community specifically, and it adds trust to the users knowing they are students/staff from the institution | Test Google sign-in early in the semester using team members’ institutional accounts. If the university domain blocks third-party apps, ask the IT department to allow it, or fall back to a simple email-and-password login restricted to @g.msuiit.edu.ph addresses for the demo |
 | Free-hosting and free-tier tools for the prototype | There is no budget, and the app handles photos, which can quickly use up free storage limits | Estimate storage needs from the expected number of test listings, set a photo size limit, and trial the chosen free host in Week 1-2. If limits are hit, compress images or switch to another free provider |
 
 ### Success indicators
-
-[Describe two observable indicators and how each could be evaluated.
-Do not report results that have not been collected.]
 
 | Success indicator | Proposed evaluation method |
 |---|---|
